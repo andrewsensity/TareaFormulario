@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="pick_date">PickerDate</string>
+    <string name="ancho_EditText">500dp</string>
+    <string name="name">Nombre Completo</string>
+    <string name="telephone">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="description">Descripción</string>
+    <string name="date">Fecha</string>
+    <string name="buttonNext">Siguiente</string>
+    <string name="ConfirmData">Confirmar Datos</string>
+    <string name="dateNac">Fecha de Nacimiento:</string>
+    <string name="telCD">Teléfono:</string>
+    <string name="descCD">Descripción:</string>
+    <string name="emailCD">Email:</string>
+    <string name="buttonEdit">Editar Datos</string>
+</resources>
